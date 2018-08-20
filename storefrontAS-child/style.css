@@ -1,0 +1,24 @@
+/*
+Theme Name: AS Child Theme
+Theme URI: localhost/wp/wp-content/themes/storefrontAS-child/
+Author: Anna Scibska
+Author URI: www.anulla.eu
+Description: SIMPLON Project Child Theme
+Template: storefrontAS
+Version: 0.1 alpha
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+.home .entry-title {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.simplon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
